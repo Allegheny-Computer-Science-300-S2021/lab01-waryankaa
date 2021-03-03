@@ -27,6 +27,7 @@ Please write below this line to address the above-mentioned points. Replace the 
 
  1. What kind of research is this method or tool used for?
  `TODO`
+ This tool acts as a resource for pharmacists and doctors who are either looking to create a new drug or analyze the effectiveness of a drug that already exists. It acts as a centralized location for all of the FDA approved drugs with basic background information that any researcher may need.
 
  2. How does this method or tool work? What does it do?
  `TODO`
