@@ -6,9 +6,9 @@
 
 In this practical assignment, you are to add your responses to the questions in blue of the lab. Your reflection should be about a page and contain clear and meaningful language. Please use markdown language to format your reflection piece.
 
-Please write below this line to address the above-mentioned points. Replace the word, TODO with your response.
+Please write below this line to address the above-mentioned points.
 
-## First Tool ~ Drug Bank
+### First Tool ~ Drug Bank
 1. What kind of research is this method or tool used for?
 This tool acts as a resource for pharmacists and doctors who are either looking to create a new drug or analyze the effectiveness of a drug that already exists. It acts as a centralized location for all of the FDA approved drugs with basic background information that any researcher may need.
 
@@ -23,11 +23,10 @@ I think this method was necessary to develop because it acts a one central locat
 When it comes to drugs and their chemical composition, a lot of times one small change can make a healthy drug deadly. Someone could use the information on the database to create a drug used to harm people.
 
 
-## Second Tool ~ PyMol
+### Second Tool ~ PyMol
 
  1. What kind of research is this method or tool used for?
- `TODO`
- This tool acts as a resource for pharmacists and doctors who are either looking to create a new drug or analyze the effectiveness of a drug that already exists. It acts as a centralized location for all of the FDA approved drugs with basic background information that any researcher may need.
+ `TODO` This tool acts as a resource for pharmacists and doctors who are either looking to create a new drug or analyze the effectiveness of a drug that already exists. It acts as a centralized location for all of the FDA approved drugs with basic background information that any researcher may need.
 
  2. How does this method or tool work? What does it do?
  `TODO`
