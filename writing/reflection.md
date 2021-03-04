@@ -9,6 +9,11 @@ In this practical assignment, you are to add your responses to the questions in 
 Please write below this line to address the above-mentioned points.
 
 ### First Tool ~ Drug Bank
+
+In this practical assignment, you are to add your responses to the questions in blue of the lab. Your reflection should be about a page and contain clear and meaningful language. Please use markdown language to format your reflection piece.
+
+Please write below this line to address the above-mentioned points.
+
 1. What kind of research is this method or tool used for? This tool acts as a resource for pharmacists and doctors who are either looking to create a new drug or analyze the effectiveness of a drug that already exists. It acts as a centralized location for all of the FDA approved drugs with basic background information that any researcher may need.
 
 2. How does this method or tool work? What does it do?
