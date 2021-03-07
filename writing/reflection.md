@@ -27,12 +27,13 @@ When it comes to drugs and their chemical composition, a lot of times one small 
 ### Second Tool ~ PyMol
 
 What kind of research is this method or tool used for?
-`TODO`
+The tool is used for any situation where the user needs to see a biological molecule or process.
 
- 2. How does this method or tool work? What does it do?
- `TODO`
+How does this method or tool work? What does it do?
+PyMol is a molecular visualization system. This system allows user to visualize and manipulate different molecular structures. It works by using Tk for the GUI widgets and a Python interpreter to display different biological molecules.
 
- 3. Why do you think that this method or tool was necessary to develop?
- `TODO`
+Why do you think that this method or tool was necessary to develop?
+I think this method or tool was necessary to develop because it allows the user to visualize proteins, DNA, and other biological molecules. A majority of the time, it is hard to completely understand how a molecule works or interacts with other molecules without seeing it. By visualizing it researches and scientists can better understand it.
 
- 4. What undesirable consequences could result from the misuse of this method of tool? `TODO`
+ What undesirable consequences could result from the misuse of this method of tool?
+ An undesirable consequences that could result is that someone may use it to see how a poison or mutation-causing agent reacts with molecules found in the body to create a poison.
